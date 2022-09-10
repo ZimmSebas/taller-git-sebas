@@ -1,2 +1,2 @@
 # taller-git-sebas
-Repositorio creado para el Taller git de @zimmsebas y @scmasd
+Repositorio creado para el Taller git de @zimmsebas y @sebamoralesasd
