@@ -1,10 +1,12 @@
+def reversa(lista):
+  lista.sort(reverse=True)
+  return lista
+
 pepe = [3, 1, 2]
 
 pepe.sort()
-
 print(f"pepe: {pepe}")
 
 # Orden de mayor a menor
-epep = pepe
-epep.sort(reverse=True)
-print(f"epep: {epep}")
+epep = reversa(pepe)
+print(f"pepe: {epep}")
