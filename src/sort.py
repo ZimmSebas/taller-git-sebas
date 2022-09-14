@@ -1,6 +1,7 @@
 def reversa(lista):
-  lista.sort(reverse=True)
-  return lista
+    lista.sort(reverse=True)
+    return lista
+
 
 pepe = [3, 1, 2]
 
