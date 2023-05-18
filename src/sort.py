@@ -18,3 +18,6 @@ def no_reversa(lista):
 
 def pepinson(nombre):
     print(nombre)
+
+def ana(nombre):
+    print(f"{nombre} hace otra cosa")
