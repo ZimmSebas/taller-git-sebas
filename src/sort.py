@@ -11,3 +11,7 @@ print(f"pepe: {reversa(pepe)}")
 # Orden de mayor a menor
 # epep = reversa(pepe)
 # print(f"pepe: {epep}")
+
+def no_reversa(lista):
+    lista.sort(reverse=False)
+    return lista
