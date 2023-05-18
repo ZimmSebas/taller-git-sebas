@@ -1,4 +1,4 @@
-def doce:
+def doce():
   print("Voy a retornar doce")
   return 12
 
